@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ListOrderComponent } from './orders/list-order/list-order.component';
 
 @Component({
   selector: 'app-root',
