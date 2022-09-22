@@ -1,6 +1,61 @@
 
+.css-1eag065-StoreMenu {
+    margin: 0px;
+    list-style: none;
+    padding: 16px 12px 12px;
+}
 
-.css-9zfmyp-Wrapper {
+ ::after, ::before {
+    box-sizing: border-box;
+}
+ *:after, *:before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-family: Eina,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    line-height: 1.15;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+ ::after, ::before {
+    box-sizing: border-box;
+}
+ *:after, *:before {
+    box-sizing: border-box;
+}
+ ::after, ::before {
+    box-sizing: border-box;
+}
+ *:after, *:before {
+    box-sizing: border-box;
+}
+/*main*/
+css-9zfmyp-Wrapper {
     position: fixed;
     top: 80px;
     height: calc(100% - 80px);
