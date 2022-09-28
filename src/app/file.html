@@ -1,0 +1,65 @@
+{
+	"header": {
+		"name": "StageCodeChange",
+		"domain": "Quote",
+		"subType": "Order",
+		"source": "DPI",
+		"priority": "1",
+		"expiration": "24",
+		"id": "4190831188",
+		"correlationId": "1C369001-727C-1A85-909E-0004AC1EA1AD",
+		"timestamp": "2022-06-27T15:25:08-05:00",
+		"property": ""
+	},
+	"identities": [
+		{
+			"applicationName": "EOC",
+			"identification": [
+				{
+					"key": "omOrderId",
+					"value": "1000113670"
+				}
+			]
+		},
+		{
+			"applicationName": "SigmaCPQ",
+			"identification": [
+				{
+					"key": "quoteId",
+					"value": "1b0ac557-5f1c-4a4d-8ac8-83b793d1aaf6"
+				},
+				{
+					"key": "quoteNumber",
+					"value": "00000000000000079615"
+				}
+			]
+		},
+		{
+			"applicationName": "DPI",
+			"identification": [
+				{
+					"key": "orderNumber",
+					"value": "042859434"
+				},
+				{
+					"key": "environmentCode",
+					"value": "EA"
+				}
+			]
+		}
+	],
+	"contextData": [
+		{
+			"currentStageCode": "VAS",
+			"previousStageCode": "***"
+		}
+	],
+	"messages": [
+		{
+			"messageId": "ES70003",
+			"severity": "INFO",
+			"messageText": "Stage Code Updated",
+			"recoveryText": ""
+		}
+	]
+}
