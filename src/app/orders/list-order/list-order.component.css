@@ -69,8 +69,7 @@ html {
     background: rgb(246, 247, 248);
 }
 
-.css-dz2j2w-Wrapper {
-}
+
 
 
 
@@ -802,3 +801,718 @@ html {
 *, *:after, *:before {
     box-sizing: border-box;
 }
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.css-1eag065-StoreMenu {
+   
+    list-style: none;
+   
+}
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    line-height: 1.15;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+.css-1uowhjo-MenuLink {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(52, 53, 56);
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 8px;
+    position: relative;
+    text-decoration: none;
+    cursor: pointer;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+[role="button"], a, area, button, input, label, select, summary, textarea {
+    touch-action: manipulation;
+}
+
+a {
+    background-color: transparent;
+}
+li {
+    text-align: -webkit-match-parent;
+}
+
+.css-1eag065-StoreMenu {
+    margin: 0px;
+    list-style: none;
+    padding: 16px 12px 12px;
+}
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+css-eu750e-MenuLink {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    margin-left: 0px;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.css-1uowhjo-MenuLink {
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(52, 53, 56);
+    /* width: 100%; */
+    /* display: flex; */
+    /* flex-wrap: nowrap; */
+    /* -webkit-box-align: center; */
+    /* align-items: center; */
+    /* box-sizing: border-box; */
+    /* border-radius: 8px; */
+    /* position: relative; */
+    /* text-decoration: none; */
+    cursor: pointer;
+    /* padding-right: 12px; */
+    /* padding-left: 12px; */
+}
+li {
+    text-align: -webkit-match-parent;
+}
+
+.css-1eag065-StoreMenu {
+    /* margin: 0px; */
+    list-style: none;
+    /* padding: 16px 12px 12px; */
+}
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+.css-1jc5k70-Separator {
+    border-width: 1px 0px 0px;
+    border-right-style: initial;
+    border-bottom-style: initial;
+    border-left-style: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image: initial;
+    border-top-style: solid;
+    border-top-color: rgb(232, 233, 235);
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+hr {
+    box-sizing: border-box;
+    font-size: 1em;
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.css-1eag065-StoreMenu {
+    /* margin: 0px; */
+    list-style: none;
+    /* padding: 16px 12px 12px; */
+}
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+.css-1eag065-StoreMenu {
+    /* margin: 0px; */
+    list-style: none;
+    /* padding: 16px 12px 12px; */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+.css-dz2j2w-Wrapper {
+    position: fixed;
+    top: 150px;
+    height: calc(100% - 150px);
+    width: 260px;
+    z-index: 100;
+    overflow-y: auto;
+    border-right: 1px solid rgb(246, 247, 248);
+    background-color: rgb(255, 255, 255);
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+.css-dz2j2w-Wrapper::-webkit-scrollbar {
+    width: 4px;
+}
+
+.css-dz2j2w-Wrapper::-webkit-scrollbar-thumb {
+    background-color: rgb(232, 233, 235);
+}
+
+.css-dz2j2w-Wrapper::-webkit-scrollbar-track {
+    background: rgb(246, 247, 248);
+}
+
+.css-505ycn-ShopLayout {
+    margin-left: 260px;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-family: Eina,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.css-hjwmw9-NextSearchTray {
+    transition: all 200ms ease 0s;
+    position: fixed;
+    width: calc(100% - 260px);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0 0 0 / 16%) 0px 2px 8px;
+    z-index: 99;
+    height: 55px;
+    overflow: hidden;
+    max-height: 0px;
+    opacity: 0;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-family: Eina,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+/*@media (min-width: 768px)
+.css-1sevvat {
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-bottom: 0px;
+    padding-left: 40px;
+}*/
+.css-1sevvat {
+    background-color: #FFFFFF;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-family: Eina,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.css-k008qs {
+    display: flex;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-family: Eina,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.css-z4hfda {
+    width: 100%;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    /* font-family: Eina,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; */
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.css-1ht3per {
+    width: 100%;
+    min-height: 60px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.css-14unvq6 {
+    width: 100%;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.css-1nklz3c {
+    font-size: 31px;
+    line-height: 40px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 10px 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+body {
+    font-family: Eina, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+html {
+    /* line-height: 1.15; */
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    line-height: 1.15;
+    /* -webkit-text-size-adjust: 100%; */
+    /* -webkit-tap-highlight-color: rgba(0,0,0,0); */
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
+
+
+
+
