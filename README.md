@@ -1,3 +1,5 @@
+#project libraries are imported from https://github.com/NodeArt/angular-commerce/tree/master/documentation
+
 # EcommerceApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
