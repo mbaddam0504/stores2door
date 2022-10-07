@@ -17,7 +17,7 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {
     this.imageUrl = 'assets/images/images.png'
-    this.iconUrl = 'assets/images/icon.jpg'
+    this.iconUrl = 'assets/images/icon-green-final.png'
   }
 
 }
